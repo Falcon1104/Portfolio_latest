@@ -1,0 +1,33 @@
+body{
+
+    
+    text-align: center;
+}
+
+.even{
+
+    float: center;
+    width: 100%;
+
+    
+
+
+}
+
+
+
+
+.odd{
+
+    color:red ;
+    border-style: dotted; 
+    width:100%;
+
+}
+
+#first{
+    text-align: right;
+}
+#last{
+    text-align: right;
+}
